@@ -11,5 +11,3 @@ Para mi la cultura de un profesional de software debe de tener una mentalidad so
 Un profesional de sofware debe de aprender que esta bien equivocarse y pedir ayuda cuando la necesite, tiene que saber integrarse en equipo y trabajar en equipo. Hay que amar lo que hacemos y siempre disfrutar del trabajo, de la vida y de las personas que nos rodean.
 
 Y recuerda "Si lo puedes imaginar 💻 lo puedes programar."
-
-SMILE! 🤓
