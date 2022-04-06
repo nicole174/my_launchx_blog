@@ -4,7 +4,7 @@ date: 2022-04-06
 description: 'Descripción de tu blog post'
 ---
 
-Lo que he aprendiedo es:
+Lo que he aprendido es:
 
 - ✏️ Mejor uso de Python.
 - ✏️ Un poco del uso de JavaScript.
