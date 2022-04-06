@@ -9,8 +9,8 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este nuevo proyecto son:
 
-  -🚀 Aprender el uso de nuevas tecnologías.
-  -🚀 Saber más sobre git y GitHub.
-  -🚀 Adquirir los suficientes conocimientos para ser una de las mejores fullstack.
+- 🚀 Aprender el uso de nuevas tecnologías.
+- 🚀 Saber más sobre git y GitHub.
+- 🚀 Adquirir los suficientes conocimientos para ser una de las mejores fullstack.
 
 🚀
